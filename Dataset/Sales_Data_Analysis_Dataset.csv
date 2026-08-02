@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Customer_Name,Region,Category,Product,Quantity,Unit_Price,Sales,Profit
+1001,2025-06-29,Kiran,East,Furniture,Table,7,750,5250,1371.88
+1002,2025-06-15,Ravi,West,Office Supplies,Notebook,9,500,4500,1210.66
+1003,2025-07-17,Siva,North,Office Supplies,Notebook,1,750,750,133.76
+1004,2025-01-16,Ananya,South,Office Supplies,Pen,7,100,700,154.29
+1005,2025-05-29,Ravi,North,Furniture,Table,6,500,3000,444.41
+1006,2025-12-15,Priya,North,Office Supplies,Paper,9,250,2250,346.2
+1007,2025-02-16,Ananya,East,Office Supplies,Pen,9,2500,22500,4051.82
+1008,2025-07-31,Ananya,North,Electronics,Mouse,8,250,2000,349.92
+1009,2025-09-20,Ravi,South,Electronics,Keyboard,5,500,2500,521.3
+1010,2025-11-24,Rahul,East,Office Supplies,Paper,8,500,4000,360.39
+1011,2025-10-27,Meera,South,Furniture,Cabinet,1,1000,1000,252.25
+1012,2025-01-29,Meera,West,Electronics,Mouse,8,750,6000,1276.68
+1013,2025-11-25,Ananya,North,Office Supplies,Pen,2,2500,5000,1378.71
+1014,2025-06-23,Ananya,West,Office Supplies,Pen,4,750,3000,757.3
+1015,2025-07-10,Priya,North,Office Supplies,Stapler,10,250,2500,650.37
+1016,2025-09-29,Arjun,South,Office Supplies,Paper,6,1500,9000,1962.98
+1017,2025-05-08,Aarav,West,Office Supplies,Stapler,7,750,5250,437.39
+1018,2025-04-12,Arjun,West,Office Supplies,Notebook,3,250,750,162.55
+1019,2025-04-14,Ananya,West,Electronics,Laptop,7,500,3500,757.7
+1020,2025-01-01,Siva,East,Electronics,Laptop,1,750,750,76.29
+1021,2025-04-08,Arjun,North,Furniture,Table,4,250,1000,181.51
+1022,2025-06-24,Kiran,North,Office Supplies,Notebook,7,2500,17500,2290.99
+1023,2025-02-10,Siva,East,Furniture,Desk,9,750,6750,897.36
+1024,2025-07-27,Siva,West,Electronics,Mouse,10,250,2500,295.66
+1025,2025-12-20,Priya,North,Furniture,Cabinet,7,750,5250,812.81
+1026,2025-01-20,Rahul,West,Office Supplies,Stapler,7,100,700,67.57
+1027,2025-12-21,Kiran,North,Furniture,Table,10,2500,25000,3223.36
+1028,2025-02-06,Ananya,East,Office Supplies,Notebook,4,100,400,40.75
+1029,2025-04-20,Kiran,East,Office Supplies,Notebook,2,100,200,19.17
+1030,2025-03-04,Kiran,North,Electronics,Laptop,9,5000,45000,5236.43
+1031,2025-11-14,Kiran,South,Office Supplies,Notebook,7,2500,17500,5108.43
+1032,2025-10-01,Rahul,West,Electronics,Keyboard,5,5000,25000,4564.95
+1033,2025-03-17,Arjun,West,Office Supplies,Pen,5,5000,25000,6108.9
+1034,2025-07-07,Sneha,South,Electronics,Keyboard,8,250,2000,520.72
+1035,2025-02-13,Rahul,West,Electronics,Keyboard,6,750,4500,377.72
+1036,2025-02-15,Siva,South,Electronics,Keyboard,7,250,1750,178.42
+1037,2025-05-26,Kiran,North,Furniture,Desk,4,250,1000,146.57
+1038,2025-08-30,Kiran,East,Electronics,Monitor,10,750,7500,1162.04
+1039,2025-03-12,Ravi,South,Electronics,Monitor,3,500,1500,187.91
+1040,2025-10-18,Siva,South,Office Supplies,Stapler,7,1000,7000,1748.53
+1041,2025-06-28,Priya,East,Office Supplies,Stapler,8,750,6000,963.42
+1042,2025-06-17,Priya,East,Furniture,Chair,10,5000,50000,11486.34
+1043,2025-11-29,Rahul,East,Furniture,Cabinet,6,1500,9000,2086.56
+1044,2025-01-02,Meera,East,Electronics,Laptop,10,1500,15000,1750.77
+1045,2025-06-30,Ravi,East,Furniture,Chair,3,1000,3000,783.48
+1046,2025-07-09,Sneha,West,Furniture,Table,1,100,100,11.5
+1047,2025-05-15,Sneha,East,Furniture,Cabinet,8,750,6000,823.85
+1048,2025-07-07,Aarav,North,Office Supplies,Pen,8,500,4000,1068.32
+1049,2025-07-24,Ravi,West,Furniture,Cabinet,1,250,250,25.75
+1050,2025-12-22,Ananya,East,Office Supplies,Pen,3,100,300,83.06
+1051,2025-03-20,Siva,South,Office Supplies,Pen,4,250,1000,89.48
+1052,2025-06-25,Priya,East,Furniture,Cabinet,8,2500,20000,5033.0
+1053,2025-05-06,Sneha,West,Electronics,Keyboard,8,2500,20000,3770.4
+1054,2025-09-09,Sneha,South,Office Supplies,Pen,5,5000,25000,2680.89
+1055,2025-05-17,Aarav,East,Electronics,Laptop,10,1000,10000,2026.19
+1056,2025-10-06,Siva,West,Furniture,Cabinet,7,5000,35000,4545.4
+1057,2025-07-29,Rahul,East,Office Supplies,Notebook,9,750,6750,1825.19
+1058,2025-03-28,Arjun,West,Office Supplies,Paper,10,750,7500,947.11
+1059,2025-08-13,Kiran,North,Electronics,Laptop,10,1000,10000,1362.3
+1060,2025-11-10,Ravi,North,Furniture,Desk,4,5000,20000,4611.9
+1061,2025-09-19,Sneha,North,Office Supplies,Pen,9,2500,22500,4867.98
+1062,2025-10-10,Ananya,South,Office Supplies,Stapler,3,1000,3000,337.33
+1063,2025-12-09,Arjun,West,Electronics,Keyboard,7,500,3500,627.29
+1064,2025-12-08,Arjun,West,Office Supplies,Stapler,10,5000,50000,6090.33
+1065,2025-11-17,Arjun,West,Furniture,Chair,6,500,3000,526.23
+1066,2025-06-21,Arjun,South,Office Supplies,Notebook,5,2500,12500,2902.25
+1067,2025-04-17,Aarav,West,Furniture,Table,3,2500,7500,1598.49
+1068,2025-10-04,Ananya,West,Furniture,Cabinet,9,100,900,259.54
+1069,2025-05-14,Siva,South,Furniture,Desk,4,250,1000,269.09
+1070,2025-07-02,Priya,East,Office Supplies,Notebook,3,250,750,78.82
+1071,2025-09-29,Siva,East,Furniture,Cabinet,3,750,2250,593.67
+1072,2025-12-10,Ananya,East,Office Supplies,Pen,2,2500,5000,1376.22
+1073,2025-09-26,Ananya,North,Electronics,Mouse,8,1500,12000,1282.08
+1074,2025-04-12,Kiran,West,Electronics,Keyboard,9,5000,45000,5054.23
+1075,2025-03-16,Sneha,East,Furniture,Cabinet,3,250,750,183.38
+1076,2025-01-06,Ravi,South,Furniture,Cabinet,7,2500,17500,2377.47
+1077,2025-06-10,Aarav,North,Furniture,Desk,7,500,3500,315.93
+1078,2025-06-11,Sneha,West,Furniture,Table,1,2500,2500,497.67
+1079,2025-01-10,Ravi,West,Office Supplies,Stapler,8,1500,12000,1813.82
+1080,2025-02-14,Ananya,West,Office Supplies,Stapler,1,500,500,117.62
+1081,2025-09-05,Arjun,East,Office Supplies,Notebook,10,500,5000,602.44
+1082,2025-05-07,Sneha,West,Electronics,Mouse,7,100,700,111.32
+1083,2025-11-14,Siva,South,Office Supplies,Pen,9,1000,9000,1111.93
+1084,2025-07-26,Arjun,West,Electronics,Laptop,5,250,1250,185.19
+1085,2025-11-08,Arjun,North,Furniture,Desk,8,1000,8000,1571.14
+1086,2025-05-25,Kiran,North,Furniture,Table,8,5000,40000,3643.56
+1087,2025-04-06,Priya,East,Office Supplies,Pen,9,2500,22500,6275.79
+1088,2025-03-21,Kiran,West,Furniture,Desk,5,2500,12500,1773.55
+1089,2025-05-18,Aarav,West,Office Supplies,Notebook,10,250,2500,355.13
+1090,2025-08-21,Siva,North,Furniture,Chair,10,1500,15000,3561.35
+1091,2025-04-18,Siva,South,Office Supplies,Notebook,8,1000,8000,1788.94
+1092,2025-01-22,Arjun,North,Furniture,Table,4,500,2000,502.78
+1093,2025-10-04,Meera,East,Electronics,Mouse,8,500,4000,1144.6
+1094,2025-03-16,Sneha,North,Office Supplies,Paper,5,750,3750,646.13
+1095,2025-07-25,Ananya,East,Electronics,Laptop,7,1000,7000,1993.06
+1096,2025-05-22,Kiran,West,Furniture,Chair,4,2500,10000,2148.93
+1097,2025-08-29,Aarav,West,Electronics,Monitor,8,1000,8000,1075.29
+1098,2025-06-10,Priya,South,Furniture,Desk,7,5000,35000,9856.48
+1099,2025-09-26,Siva,East,Electronics,Mouse,1,5000,5000,1189.52
+1100,2025-07-12,Priya,South,Office Supplies,Stapler,1,750,750,76.9
+1101,2025-09-01,Rahul,North,Electronics,Monitor,5,100,500,40.82
+1102,2025-03-21,Kiran,East,Office Supplies,Notebook,3,250,750,193.17
+1103,2025-07-14,Meera,North,Furniture,Chair,6,500,3000,601.11
+1104,2025-06-20,Arjun,South,Office Supplies,Stapler,6,2500,15000,1514.94
+1105,2025-11-16,Sneha,North,Furniture,Table,8,250,2000,590.19
+1106,2025-08-17,Priya,East,Office Supplies,Pen,10,500,5000,1161.54
+1107,2025-07-07,Kiran,North,Furniture,Chair,8,500,4000,453.35
+1108,2025-05-20,Priya,South,Furniture,Table,7,500,3500,853.04
+1109,2025-01-27,Kiran,North,Office Supplies,Pen,1,100,100,22.78
+1110,2025-08-15,Aarav,North,Furniture,Table,2,2500,5000,1389.95
+1111,2025-10-29,Arjun,South,Office Supplies,Pen,1,2500,2500,213.21
+1112,2025-11-04,Aarav,West,Furniture,Desk,9,5000,45000,7790.81
+1113,2025-02-12,Ananya,South,Electronics,Monitor,7,750,5250,1393.58
+1114,2025-10-05,Ananya,North,Electronics,Monitor,9,5000,45000,4143.98
+1115,2025-07-23,Sneha,West,Office Supplies,Pen,4,250,1000,288.08
+1116,2025-04-07,Aarav,North,Electronics,Keyboard,5,250,1250,324.82
+1117,2025-02-22,Aarav,East,Furniture,Table,7,100,700,184.96
+1118,2025-02-01,Rahul,West,Furniture,Chair,7,500,3500,708.74
+1119,2025-10-20,Siva,North,Furniture,Cabinet,10,2500,25000,3182.89
+1120,2025-03-14,Ananya,North,Furniture,Chair,2,5000,10000,2248.37
+1121,2025-06-17,Aarav,North,Office Supplies,Notebook,10,2500,25000,5545.08
+1122,2025-05-01,Ananya,South,Furniture,Cabinet,10,1000,10000,2112.41
+1123,2025-12-26,Ananya,South,Office Supplies,Stapler,8,1500,12000,2469.25
+1124,2025-12-04,Sneha,North,Furniture,Chair,5,250,1250,230.41
+1125,2025-05-29,Rahul,South,Office Supplies,Paper,2,1500,3000,504.29
+1126,2025-04-13,Kiran,West,Electronics,Laptop,9,5000,45000,7014.7
+1127,2025-03-01,Kiran,North,Furniture,Desk,10,5000,50000,14462.21
+1128,2025-02-26,Ananya,North,Electronics,Mouse,4,1500,6000,689.98
+1129,2025-06-26,Meera,South,Furniture,Cabinet,5,750,3750,868.88
+1130,2025-08-22,Kiran,South,Electronics,Mouse,6,750,4500,1166.14
+1131,2025-04-28,Siva,South,Furniture,Cabinet,5,5000,25000,3178.37
+1132,2025-01-04,Aarav,North,Office Supplies,Pen,6,250,1500,148.96
+1133,2025-07-08,Siva,South,Electronics,Laptop,2,100,200,37.17
+1134,2025-08-27,Arjun,East,Office Supplies,Notebook,9,5000,45000,10041.89
+1135,2025-03-16,Priya,South,Electronics,Laptop,4,100,400,76.03
+1136,2025-03-19,Siva,East,Furniture,Table,3,1000,3000,706.61
+1137,2025-06-12,Ananya,South,Furniture,Desk,9,1000,9000,1962.88
+1138,2025-10-09,Rahul,East,Office Supplies,Pen,3,750,2250,639.22
+1139,2025-02-17,Ananya,South,Furniture,Desk,8,250,2000,210.62
+1140,2025-08-20,Ravi,West,Electronics,Laptop,9,750,6750,1500.68
+1141,2025-06-06,Siva,West,Furniture,Table,9,1500,13500,3013.42
+1142,2025-02-22,Priya,East,Furniture,Table,10,2500,25000,5781.11
+1143,2025-09-15,Ravi,North,Furniture,Chair,4,250,1000,80.01
+1144,2025-10-21,Siva,East,Furniture,Table,5,250,1250,374.83
+1145,2025-04-29,Ananya,East,Office Supplies,Notebook,7,500,3500,736.76
+1146,2025-04-28,Arjun,South,Office Supplies,Stapler,1,5000,5000,497.7
+1147,2025-11-19,Ananya,North,Furniture,Cabinet,4,1500,6000,1104.22
+1148,2025-05-05,Meera,West,Office Supplies,Paper,3,250,750,119.88
+1149,2025-01-22,Rahul,West,Office Supplies,Notebook,8,750,6000,570.76
+1150,2025-11-10,Ravi,East,Office Supplies,Notebook,10,5000,50000,9947.48
+1151,2025-04-30,Ananya,East,Electronics,Mouse,4,100,400,62.18
+1152,2025-03-20,Arjun,East,Office Supplies,Paper,9,2500,22500,5220.1
+1153,2025-01-20,Kiran,South,Electronics,Mouse,10,1500,15000,3194.48
+1154,2025-01-22,Ravi,North,Furniture,Table,2,100,200,57.17
+1155,2025-01-25,Siva,East,Office Supplies,Paper,3,750,2250,657.82
+1156,2025-08-09,Priya,West,Office Supplies,Paper,3,1500,4500,1249.54
+1157,2025-06-12,Ravi,West,Electronics,Mouse,9,2500,22500,2467.94
+1158,2025-02-23,Arjun,West,Electronics,Laptop,6,250,1500,297.94
+1159,2025-06-06,Meera,West,Electronics,Mouse,9,1000,9000,979.76
+1160,2025-04-16,Meera,West,Electronics,Mouse,3,5000,15000,1583.53
+1161,2025-07-07,Siva,East,Office Supplies,Notebook,6,750,4500,1116.05
+1162,2025-07-23,Aarav,West,Furniture,Chair,7,1500,10500,2406.1
+1163,2025-03-12,Ravi,West,Office Supplies,Stapler,7,750,5250,1144.74
+1164,2025-10-04,Sneha,West,Furniture,Cabinet,2,1500,3000,365.8
+1165,2025-08-19,Ananya,South,Electronics,Monitor,7,250,1750,400.19
+1166,2025-03-20,Meera,North,Furniture,Cabinet,4,750,3000,782.7
+1167,2025-01-16,Arjun,West,Electronics,Mouse,6,750,4500,1080.78
+1168,2025-01-15,Meera,East,Furniture,Table,3,2500,7500,621.04
+1169,2025-02-02,Siva,East,Furniture,Table,5,100,500,143.22
+1170,2025-07-22,Rahul,South,Electronics,Keyboard,2,100,200,32.79
+1171,2025-04-05,Arjun,North,Electronics,Monitor,10,1000,10000,2171.04
+1172,2025-10-29,Kiran,South,Office Supplies,Notebook,8,250,2000,546.03
+1173,2025-12-04,Ravi,South,Furniture,Cabinet,9,1500,13500,3405.19
+1174,2025-10-09,Ananya,North,Furniture,Desk,6,1500,9000,2670.78
+1175,2025-05-26,Rahul,West,Furniture,Chair,9,100,900,244.33
+1176,2025-02-28,Siva,North,Office Supplies,Stapler,7,500,3500,671.14
+1177,2025-05-29,Sneha,West,Electronics,Mouse,5,1500,7500,1006.17
+1178,2025-10-14,Siva,West,Furniture,Table,1,1000,1000,234.37
+1179,2025-02-17,Ananya,West,Furniture,Desk,7,100,700,65.89
+1180,2025-04-15,Priya,East,Office Supplies,Pen,7,250,1750,512.47
+1181,2025-06-19,Kiran,East,Office Supplies,Stapler,6,1500,9000,2481.17
+1182,2025-02-06,Meera,North,Office Supplies,Paper,4,1000,4000,499.73
+1183,2025-03-19,Rahul,West,Furniture,Table,9,100,900,124.71
+1184,2025-05-08,Siva,East,Office Supplies,Stapler,9,1500,13500,3253.52
+1185,2025-02-12,Ravi,North,Office Supplies,Stapler,1,2500,2500,634.4
+1186,2025-09-16,Arjun,West,Electronics,Mouse,1,2500,2500,578.13
+1187,2025-07-18,Aarav,West,Office Supplies,Stapler,9,250,2250,337.89
+1188,2025-07-05,Priya,East,Office Supplies,Paper,7,250,1750,197.88
+1189,2025-01-09,Siva,West,Electronics,Laptop,10,750,7500,2161.06
+1190,2025-01-11,Kiran,South,Electronics,Laptop,9,2500,22500,5238.6
+1191,2025-07-04,Meera,South,Office Supplies,Paper,9,750,6750,747.67
+1192,2025-01-25,Sneha,West,Electronics,Mouse,6,500,3000,659.64
+1193,2025-07-25,Sneha,South,Office Supplies,Pen,9,1500,13500,3677.5
+1194,2025-11-26,Priya,North,Furniture,Chair,7,100,700,134.61
+1195,2025-08-18,Kiran,East,Office Supplies,Notebook,3,500,1500,362.25
+1196,2025-06-08,Siva,South,Electronics,Monitor,1,500,500,103.81
+1197,2025-04-17,Ananya,North,Office Supplies,Paper,5,1500,7500,1701.11
+1198,2025-10-06,Sneha,South,Office Supplies,Stapler,4,750,3000,882.04
+1199,2025-04-10,Ravi,North,Furniture,Desk,9,750,6750,1881.69
+1200,2025-07-28,Priya,West,Office Supplies,Stapler,3,500,1500,443.6
